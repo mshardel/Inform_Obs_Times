@@ -3,4 +3,4 @@ R code for simulation study for "Time-Varying Latent Effect Models for Repeated 
 
 Simulations for:
 1. Semi-parametric longitudinal model with time-varying latent effects and time-varying covariates.
-2. Inverse conditional intensity rate ratio (ICIRR)-weighted semi-parametric longitudinal model with time-varying latent effects and time-varying covariates
+2. Inverse conditional intensity rate ratio (ICIRR)-weighted semi-parametric longitudinal model with time-varying latent effects and time-varying covariates.
