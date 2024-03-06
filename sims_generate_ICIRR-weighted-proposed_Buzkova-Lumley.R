@@ -1,6 +1,6 @@
 ###########################################################
 #Simulation study for 
-#"Time-Varying Latent Eect Models for Repeated Measurements to Address
+#"Time-Varying Latent Effect Models for Repeated Measurements to Address
 #Informative Observation Times in the U.S. Medicare Minimum Data Set"   
 #By Shardell M, Chen C, and Falvey J
 #University of Maryland School of Medicine
